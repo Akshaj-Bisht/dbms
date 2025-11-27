@@ -69,7 +69,7 @@ INSERT INTO SOCIETY (SocID, SocName, MentorName, TotalSeats) VALUES
 ('s1','Debating','Rohan Gupta',30),
 ('s2','Dancing','Meera Singh',20),
 ('s3','NSS','Arvind Kumar',50),
-('s4','Sashakt','Priya Gupta',25),
+('s4','Singing','Priya Gupta',25),
 ('s5','Drama','S. Bose',15),
 ('s6','Coding','Harish Mehta',40);
 ```
